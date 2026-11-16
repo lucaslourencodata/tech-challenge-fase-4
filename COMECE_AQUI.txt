@@ -1,0 +1,23 @@
+TECH CHALLENGE FASE 4 - VOC OLIST COM RAG
+
+O QUE VOCE PRECISA FAZER:
+
+1) Descompacte todo o ZIP no computador.
+2) Abra INICIAR_WINDOWS.bat com dois cliques.
+3) No navegador, cole sua chave API Gemini na barra lateral
+   (obtenha em https://aistudio.google.com/app/apikey).
+4) Faca as perguntas sugeridas e confira as evidencias exibidas.
+5) Conecte o GitHub ao ChatGPT ou publique os arquivos em
+   um repositorio PUBLICO (sem .env, data/raw, artifacts ou .venv).
+6) Grave o video seguindo docs/ROTEIRO_VIDEO.md (ATE 7 MINUTOS).
+7) Entregue o link do GitHub e o video na FIAP.
+
+Se o Windows pedir Python, instale Python 3.11 ou 3.12 em
+https://www.python.org/downloads/ e habilite Add Python to PATH.
+
+Se o download Kaggle falhar, baixe os CSVs na pagina indicada
+no README.md e extraia em data/raw/.
+
+IMPORTANTE: codigo e testes unitarios foram criados e validados,
+mas download real, embeddings reais, LLM e video ainda precisam
+ser executados no seu computador.
